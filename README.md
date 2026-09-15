@@ -20,7 +20,7 @@ n8n · MySQL · Битрикс24 REST · OpenAI API · Python · Unity (C#)
 **mauvaislab** — сайт студии веб-разработки
 Собственный сайт услуг. Задача была прямая: сайт должен сам быть главным
 аргументом в разговоре с клиентом.
-[Открыть сайт](https://mauvaislab.vercel.app) · [Код](https://github.com/mauvaislab/mauvaislab-site)
+[Открыть сайт](https://mauvaislab.vercel.app)
 `Next.js` `Three.js` `Motion` `Tailwind`
 
 **VOREX** — презентационный сайт майнинг-проекта
